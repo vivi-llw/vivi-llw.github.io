@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on vivi-llw&#39;s blog</title>
+    <link>https://vivi-llw.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on vivi-llw&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 14 Nov 2017 10:22:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://vivi-llw.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gulp自动为静态资源添加md5戳</title>
+      <link>https://vivi-llw.github.io/portfolio/gulp-md5/</link>
+      <pubDate>Tue, 14 Nov 2017 10:22:59 +0800</pubDate>
+      
+      <guid>https://vivi-llw.github.io/portfolio/gulp-md5/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018，新年快乐！</title>
+      <link>https://vivi-llw.github.io/portfolio/work3/</link>
+      <pubDate>Fri, 16 Feb 2018 01:22:59 +0800</pubDate>
+      
+      <guid>https://vivi-llw.github.io/portfolio/work3/</guid>
+      <description>&lt;h4 id=&#34;祝大家新年快乐-狗年大吉&#34;&gt;祝大家新年快乐，狗年大吉！&lt;/h4&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
